@@ -1,0 +1,9 @@
+section{
+    margin-top: 10px;
+    padding:10%;
+    border:2px solid black;
+}
+p{
+    font-size: 15px;
+    letter-spacing: .5px;
+}

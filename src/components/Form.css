@@ -1,0 +1,17 @@
+button{
+    display: block;
+    margin: 15px auto;
+    padding:10px 20px;
+    letter-spacing: .5px;
+    background-color: white;
+    border:2px solid black;
+    transition:.2s linear;
+}
+button:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+input{
+    padding: 10px;
+}
